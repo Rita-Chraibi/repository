@@ -1,2 +1,2 @@
-# repository
-read me tp genie logiciel
+# reposigit connecttory
+read me TEST tp logiciel
